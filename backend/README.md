@@ -1,6 +1,3 @@
-# Featherless_Bipeds
-This is our project repository for Android Application and Development Lab
-
 ## Virtual Environment Setup
 ```bash
 python3 -m venv .venv
