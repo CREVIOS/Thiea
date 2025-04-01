@@ -20,6 +20,7 @@ docker-compose up -d
 ```
 
 ## Run Celery
+
 ```bash
 celery -A app.tasks worker --loglevel=DEBUG
 ```
