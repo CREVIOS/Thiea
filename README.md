@@ -42,7 +42,7 @@ Theia is an AI-powered **photo-sharing and management** application featuring:
 ### **Clone the Repository**
 
 ```bash
-git clone https://github.com/point-break-5/Thiea_app.git
+git clone https://github.com/CREVIOS/Thiea
 cd Thiea_app
 ```
 
